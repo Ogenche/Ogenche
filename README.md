@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ogenche
-- 👀 I’m a software engineeri
+- 👀 I’m a software engineer
 - 🌱 Currently learning fullstack software engineering at ALX
 
 <!---
