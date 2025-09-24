@@ -24,6 +24,10 @@ I specialize in the modern frontend ecosystem, using **React** and **TypeScript*
 
 Here are a few projects I've built that showcase my skills.
 
+#### 🏙️ City Pulse Hub
+A location-aware dashboard that integrates multiple APIs to show real-time local happenings, featuring live chat lobbies. Built with **React, TS, and Firebase**.
+- **[View Source Code](https://github.com/Ogenche/city-pulse-hub)**
+
 #### 🔎 Murder Mystery Game (Caretaker's Secret)
 An interactive story-based game featuring complex state management, puzzles, and a creative Kanban-style UI for managing clues. Built with **React**.
 - **[View Source Code](https://github.com/Ogenche/caretaker-secret)**
@@ -36,9 +40,6 @@ A versatile quiz application with multiple categories and difficulties to showca
 A high-performance Swahili-English dictionary with 16,000+ words, featuring a debounced search for instant results. Built with **React and TypeScript**.
 - **[View Source Code](https://github.com/Ogenche/kamusi)**
 
-#### 🏙️ City Pulse Hub
-A location-aware dashboard that integrates multiple APIs to show real-time local happenings, featuring live chat lobbies. Built with **React, TS, and Firebase**.
-- **[View Source Code](https://github.com/Ogenche/city-pulse-hub)**
 
 ---
 
