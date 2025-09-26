@@ -26,8 +26,8 @@ Here are a few projects I've built.
 
 ###💬 Random Quote Generator
 An interactive web app that displays random quotes with multi-language support, a favorites system, and social sharing. Built with vanilla `HTML`, `CSS`, and `JavaScript`.
-- **[View Live Demo](https://quote-generator-orpin-two.vercel.app/)
-- **[View Source Code](https://github.com/Ogenche/quote-generator)
+- **[View Live Demo](https://quote-generator-orpin-two.vercel.app/)**
+- **[View Source Code](https://github.com/Ogenche/quote-generator)**
 
 #### 🏙️ City Pulse Hub
 A location-aware dashboard that integrates multiple APIs to show real-time local happenings. Featurres live chat lobbies. Built with **React, TS, and Firebase**.
