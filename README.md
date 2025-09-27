@@ -24,7 +24,7 @@ I specialize in the modern frontend ecosystem, using **React** and **TypeScript*
 
 Here are a few projects I've built.
 
-###💬 Random Quote Generator
+#### 💬 Random Quote Generator
 An interactive web app that displays random quotes with multi-language support, a favorites system, and social sharing. Built with vanilla `HTML`, `CSS`, and `JavaScript`.
 - **[View Live Demo](https://quote-generator-orpin-two.vercel.app/)**
 - **[View Source Code](https://github.com/Ogenche/quote-generator)**
