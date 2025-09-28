@@ -25,9 +25,14 @@ I specialize in the modern frontend ecosystem, using **React** and **TypeScript*
 Here are a few projects I've built.
 
 #### 💬 Random Quote Generator
-An interactive web app that displays random quotes with multi-language support, a favorites system, and social sharing. Built with vanilla `HTML`, `CSS`, and `JavaScript`.
+An interactive web app that displays random quotes with multi-language support, a favorites system, and social sharing. Built with Vanilla `HTML`, `CSS`, and `JavaScript`.
 - **[View Live Demo](https://quote-generator-orpin-two.vercel.app/)**
 - **[View Source Code](https://github.com/Ogenche/quote-generator)**
+
+#### 🧠 Quiz Night App (Quiz Night Ace)
+A versatile quiz application with multiple categories and difficulties to showcase solid application logic and state handling. Built with **React and TypeScript**.
+- **[View Live Demo](https://quiz-night-ace.vercel.app)**
+- **[View Source Code](https://github.com/Ogenche/quiz-night-ace)**
 
 #### 🏙️ City Pulse Hub
 A location-aware dashboard that integrates multiple APIs to show real-time local happenings. Featurres live chat lobbies. Built with **React, TS, and Firebase**.
@@ -36,10 +41,6 @@ A location-aware dashboard that integrates multiple APIs to show real-time local
 #### 🔎 Murder Mystery Game (Caretaker's Secret)
 An interactive story-based game featuring complex state management, puzzles, and a creative Kanban-style UI for managing clues. Built with **React**.
 - **[View Source Code](https://github.com/Ogenche/caretaker-secret)**
-
-#### 🧠 Quiz Night App (Quiz Night Ace)
-A versatile quiz application with multiple categories and difficulties to showcase solid application logic and state handling. Built with **React and TypeScript**.
-- **[View Source Code](https://github.com/Ogenche/quiz-night-ace)**
 
 #### 📖 Kamusi Dictionary (Kamusi)
 A high-performance Swahili-English dictionary with 16,000+ words, featuring a debounced search for instant results. Built with **React and TypeScript**.
