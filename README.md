@@ -43,7 +43,7 @@ An interactive story-based game featuring complex state management, puzzles, and
 - **[View Source Code](https://github.com/Ogenche/caretaker-secret)**
 
 #### 📖 Kamusi Dictionary (Kamusi)
-A high-performance Swahili-English dictionary with 16,000+ words, featuring a debounced search for instant results. Built with **React and TypeScript**.
+A high-performance Swahili dictionary (kamusi) with 16,000+ words, featuring a debounced search for instant results. Built with **React and TypeScript**.
 - **[View Source Code](https://github.com/Ogenche/kamusi)**
 
 ---
