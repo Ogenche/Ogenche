@@ -30,7 +30,7 @@ An interactive web app that displays random quotes with multi-language support, 
 - **[View Source Code](https://github.com/Ogenche/quote-generator)**
 
 #### 🧠 Quiz Night App (Quiz Night Ace)
-A versatile quiz application with multiple categories and difficulties to showcase solid application logic and state handling. Built with **React and TypeScript**.
+A versatile quiz application with multiple categories and difficulties. Shows application logic and state handling. Built with **React and TypeScript**.
 - **[View Live Demo](https://quiz-night-ace.vercel.app)**
 - **[View Source Code](https://github.com/Ogenche/quiz-night-ace)**
 
